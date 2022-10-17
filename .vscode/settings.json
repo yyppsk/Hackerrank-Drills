@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "xiosbase": "cpp",
+    "algorithm": "cpp",
+    "xstddef": "cpp",
+    "random": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp",
+    "numeric": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "string": "cpp",
+    "xstring": "cpp",
+    "unordered_map": "cpp",
+    "cmath": "cpp",
+    "queue": "cpp"
+  }
+}
