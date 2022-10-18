@@ -1,0 +1,25 @@
+[9,9,99,909,990,999,9000,9009]
+ x x, x  x  x   x   x     x
+x = 9 % n == 0 f
+ADJACENTS are supposed to be pushed. x * 10, x  * 10 + 9
+
+Decimal base = 10
+Digits = 0 to 9
+
+Binary = 2 Digit
+0,1
+while(num > 0)
+	dig = num % 10;
+	if(digit >= base)
+		break
+	num = num / 10
+
+for d in dates:
+	decimal convert
+	deci = int(str(d[1]),d[0])
+
+        3
+deci [ 25 ]
+
+if(f[i] >= 2)
+	ans += freq
