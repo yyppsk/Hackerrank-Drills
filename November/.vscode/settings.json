@@ -3,6 +3,7 @@
     "xutility": "cpp",
     "cstdlib": "cpp",
     "xstring": "cpp",
-    "xstddef": "cpp"
+    "xstddef": "cpp",
+    "vector": "cpp"
   }
 }
