@@ -4,6 +4,8 @@
     "cstdlib": "cpp",
     "xstring": "cpp",
     "xstddef": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "algorithm": "cpp",
+    "iostream": "cpp"
   }
 }
